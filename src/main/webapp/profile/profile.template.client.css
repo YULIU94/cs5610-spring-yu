@@ -1,0 +1,14 @@
+.profile-form{
+
+}
+
+.profile-update-btn{
+    background-color: green;
+    color: white;
+    float: right;
+}
+
+.profile-logout-btn{
+    background-color: red;
+    color: white;
+}
